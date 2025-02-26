@@ -27,8 +27,8 @@ This is a simple command-line todo list application written in Go. It leverages 
 1. **Clone the repository:**
 
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Armir2005/go-todo.git
+   cd go-todo
 
 2. **Build the application:**
 
